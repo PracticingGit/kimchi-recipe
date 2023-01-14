@@ -1,1 +1,6 @@
 it's kimchirecipe_01
+
+01. ready
+02. get
+03. set
+04. go
